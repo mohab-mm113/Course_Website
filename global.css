@@ -11,12 +11,14 @@ header h1 {
     writing-mode: vertical-rl; /* Makes the text vertical */
     margin: 0;
     padding: 1rem 0;
+    background-color: aquamarine;
 }
 
 /* Body Element */
 body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 14pt;
+    background-color: #4C0F20;
     line-height: 32px;
     color: black; /* Replace with color palette from Assignment 1 */
     border: 0; /* Ensures border of 0pt unless otherwise noted */
